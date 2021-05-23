@@ -21,9 +21,9 @@ Build a Tic-Tac-Toe game with Angular
 Overview of the organization and architecture of the Firestarter demo app.  
 ~~**9 Meet Angular Material**~~  
 Introduction to Angular Material and design systems  
-**10 Schematics**  
+~~**10 Schematics**~~  
 Using Angular Material Schematics  
-**11 Shared Module**  
+~~**11 Shared Module**~~  
 Share component and Material Modules efficiently throughout the app  
 **12 App Navigation Shell**  
 Add a responsive navigation shell to the app  
