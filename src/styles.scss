@@ -6,6 +6,10 @@
 // Include the common styles for Angular Material. We include this here so that you only
 // have to load a single css file for Angular Material in your app.
 // Be sure that you only ever include this mixin once!
+$custom-typography: mat-typography-config(
+  $font-family: "KoHo, sans-serif",
+);
+
 @include mat-core();
 
 /* For use in src/lib/core/theming/_palette.scss */
@@ -78,3 +82,6 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+// This needs to be below the above theme to override the fonts
+@include mat-base-typography($custom-typography);
