@@ -29,7 +29,7 @@ Share component and Material Modules efficiently throughout the app
 Add a responsive navigation shell to the app  
 ~~**13 Routing**~~  
 Create a home page configured with the Angular Router.  
-**14 Firebase Setup**  
+~~**14 Firebase Setup**~~  
 Add Firebase and @angular/fire to your app
 
 #### Users
