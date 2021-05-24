@@ -25,7 +25,7 @@ Introduction to Angular Material and design systems
 Using Angular Material Schematics  
 ~~**11 Shared Module**~~  
 Share component and Material Modules efficiently throughout the app  
-**12 App Navigation Shell**  
+~~**12 App Navigation Shell**~~  
 Add a responsive navigation shell to the app  
 **13 Routing**  
 Create a home page configured with the Angular Router.  
